@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "63872070173",
+    "project_id": "data-1dcf1",
+    "storage_bucket": "data-1dcf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63872070173:android:9a63763bb23a0d4c724cf4",
+        "android_client_info": {
+          "package_name": "Robin.Do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63872070173-922huaic42bgcdfju9iptlek4u0v1f8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApdq49t73yoYziKangPW33PJVNoTbSmQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63872070173-922huaic42bgcdfju9iptlek4u0v1f8v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63872070173-6mlvccn3ks93v8bboivem2fevq9i1jti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.doaryfood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63872070173:android:b9d1abb2ca6d0162724cf4",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fluttermet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63872070173-922huaic42bgcdfju9iptlek4u0v1f8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApdq49t73yoYziKangPW33PJVNoTbSmQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63872070173-922huaic42bgcdfju9iptlek4u0v1f8v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63872070173-6mlvccn3ks93v8bboivem2fevq9i1jti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.doaryfood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63872070173:android:ccea04d03d57c352724cf4",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63872070173-922huaic42bgcdfju9iptlek4u0v1f8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApdq49t73yoYziKangPW33PJVNoTbSmQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63872070173-922huaic42bgcdfju9iptlek4u0v1f8v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63872070173-6mlvccn3ks93v8bboivem2fevq9i1jti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.doaryfood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63872070173:android:455cb097b1738361724cf4",
+        "android_client_info": {
+          "package_name": "com.mycompany.doaryfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63872070173-hq54o9f51h7nusdbnhgop3udkphelru0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.doaryfood",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "63872070173-922huaic42bgcdfju9iptlek4u0v1f8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApdq49t73yoYziKangPW33PJVNoTbSmQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63872070173-922huaic42bgcdfju9iptlek4u0v1f8v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63872070173-6mlvccn3ks93v8bboivem2fevq9i1jti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.doaryfood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
